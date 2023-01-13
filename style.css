@@ -1,0 +1,47 @@
+header{
+    height: 90vh;
+    width: 100%;
+    background-color: rgb(199, 190, 207);
+    padding: 24px;
+}
+.c1{
+    padding: 20%;
+}
+.c1 p{
+    font-weight: 600;
+}
+section{
+    height: 120vh;
+    width: 100%;
+    background-color: azure;
+    padding: 24px;
+}
+.c2{
+    padding-left: 15%;
+}
+.learning{
+    height: 140vh;
+    background-color: rgb(193, 203, 231);
+    
+}
+.learning h1{
+    text-align: center;
+    line-height:250%;
+}
+.exhibit{
+    height: 130vh;
+    background-color: beige;
+    padding: 24px;
+}
+.exhibit h1{
+    text-align: center;
+    line-height:250%;
+}
+.exhibit-column{
+    padding-left: 30%;
+}
+footer{
+    background-image: linear-gradient(yellow,rgb(184, 184, 236));
+    text-align: center;
+}
+
